@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-02-12T02:12:59.000Z",
+      "message": "feat:añadiendo multiplicador",
+      "url": "https://github.com/luis-ag23/ingSoftTareaJava/commit/HEAD"
+    },
+    "stats": {
+      "total": 23286,
+      "additions": 22285,
+      "deletions": 1001,
+      "date": "2026-02-12"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
