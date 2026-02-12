@@ -6,9 +6,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "fd07509af2e1079292c4986521f5180fc849cf35",
     "commitName": "feat:añadiendo multiplicador",
     "commitTimestamp": 1770863569944,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: arreglando error en package.json",
+    "commitTimestamp": 1770864295870,
+    "testId": 2
   }
 ]

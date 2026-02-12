@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "fd07509af2e1079292c4986521f5180fc849cf35",
     "author": "Luis Aguilar",
     "commit": {
       "date": "2026-02-12T02:32:48.000Z",
       "message": "feat:añadiendo multiplicador",
-      "url": "https://github.com/luis-ag23/ingSoftTareaJava/commit/HEAD"
+      "url": "https://github.com/luis-ag23/ingSoftTareaJava/commit/fd07509af2e1079292c4986521f5180fc849cf35"
     },
     "stats": {
       "total": 26,
       "additions": 26,
       "deletions": 0,
+      "date": "2026-02-12"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-02-12T02:44:54.000Z",
+      "message": "fix: arreglando error en package.json",
+      "url": "https://github.com/luis-ag23/ingSoftTareaJava/commit/HEAD"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 0,
+      "deletions": 1,
       "date": "2026-02-12"
     },
     "coverage": 100,
