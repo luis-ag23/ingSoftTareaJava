@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "5f363966f862c25d0df4d639d6aaa2b9514e2a13",
     "author": "Luis Aguilar",
     "commit": {
       "date": "2026-02-12T02:12:59.000Z",
       "message": "feat:añadiendo multiplicador",
-      "url": "https://github.com/luis-ag23/ingSoftTareaJava/commit/HEAD"
+      "url": "https://github.com/luis-ag23/ingSoftTareaJava/commit/5f363966f862c25d0df4d639d6aaa2b9514e2a13"
     },
     "stats": {
       "total": 23286,
       "additions": 22285,
       "deletions": 1001,
+      "date": "2026-02-12"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luis Aguilar",
+    "commit": {
+      "date": "2026-02-12T02:32:48.000Z",
+      "message": "feat:añadiendo multiplicador",
+      "url": "https://github.com/luis-ag23/ingSoftTareaJava/commit/HEAD"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 26,
+      "deletions": 0,
       "date": "2026-02-12"
     },
     "coverage": 100,
